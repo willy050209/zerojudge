@@ -1,0 +1,15 @@
+{
+  "problem_id": "a001",
+  "cases": [
+    {
+      "name": "Sample Case 1",
+      "input": "world\n",
+      "expected": "hello, world"
+    },
+    {
+      "name": "Sample Case 2 (Multiple Testcases & Symbols)",
+      "input": "world\nZeroJudge\nC_Plus_Plus\n",
+      "expected": "hello, world\nhello, ZeroJudge\nhello, C_Plus_Plus"
+    }
+  ]
+}

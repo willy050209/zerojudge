@@ -1,0 +1,15 @@
+# Build artifacts
+build/
+*.exe
+*.o
+*.obj
+*.class
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE & system files
+.vscode/
+.idea/
+Thumbs.db

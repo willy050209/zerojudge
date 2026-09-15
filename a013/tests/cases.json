@@ -1,0 +1,25 @@
+{
+  "problem_id": "a013",
+  "cases": [
+    {
+      "name": "Sample Case 1",
+      "input": "I I\nMM II\n#\n",
+      "expected": "ZERO\nMCMXCVIII"
+    },
+    {
+      "name": "Subtractive and Inverted Cases",
+      "input": "II MM\nIX IV\nXL XC\n#\n",
+      "expected": "MCMXCVIII\nV\nL"
+    },
+    {
+      "name": "Boundary Values and Repeated Difference",
+      "input": "MMMCMXCIX I\nMMMCMXCIX MMMCMXCIX\nCD D\n#\n",
+      "expected": "MMMCMXCVIII\nZERO\nC"
+    },
+    {
+      "name": "Symmetric and Small Differences",
+      "input": "XII IV\nIV XII\nC C\n#\n",
+      "expected": "VIII\nVIII\nZERO"
+    }
+  ]
+}

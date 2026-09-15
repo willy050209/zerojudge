@@ -1,0 +1,10 @@
+{
+  "problem_id": "template_py",
+  "cases": [
+    {
+      "name": "Sample 1",
+      "input": "10 20\n30 40\n",
+      "expected": "30\n70"
+    }
+  ]
+}
